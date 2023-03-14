@@ -1,0 +1,22 @@
+runtime: java
+env: flex
+
+env_variables:
+  # --SCOOLD CONFIG VARS--
+  scoold_env: production
+  scoold_para_endpoint: <https://paraio.com>
+  scoold_para_access_key: <access_key>
+  scoold_para_secret_key: <secret_key>
+  scoold_host_url: <https://scoold.yourdomain.com>
+
+  scoold_fb_app_id: <fb_appid>
+  scoold_fb_secret: <fb_appid>
+  scoold_gp_app_id: <google_app_id>
+  scoold_gp_secret: <google_secret>
+
+  scoold_app_secret_key: <random_secret>
+  scoold_admins: <admin_identifier>
+  scoold_password_auth_enabled: true
+  scoold_is_default_space_public: true
+  scoold_new_users_can_comment: true
+
